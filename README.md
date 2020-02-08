@@ -2,8 +2,6 @@
 Colecion de comandos al momento de trabajar con angular
 
 ## npm install -g @angular/cli
-
-## npm install -g @angular/cli
 `npm install -g @angular/cli`  instalar angular
 
 ## ng new my-dream-app
