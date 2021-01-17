@@ -4,6 +4,9 @@ Colecion de comandos al momento de trabajar con angular
 ## git init
 `git init`  Iniciar un repositorio
 
+## git remote add origin
+`git remote add origin url-resposytory`  Conectar proyecto local con el repositorio remoto
+
 ## npm install -g @angular/cli
 `npm install -g @angular/cli`  instalar angular
 
