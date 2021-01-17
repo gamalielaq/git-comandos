@@ -1,6 +1,9 @@
 # git-comandos
 Colecion de comandos al momento de trabajar con angular
 
+## git init
+`git init`  Iniciar un repositorio
+
 ## npm install -g @angular/cli
 `npm install -g @angular/cli`  instalar angular
 
