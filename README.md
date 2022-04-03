@@ -7,8 +7,8 @@ Colecion de comandos al momento de trabajar con angular
 ## git remote add origin
 `git remote add origin url-resposytory`  Conectar proyecto local con el repositorio remoto
 
-## git checkout -- .
-`git checkout -- .`  Regenerar Archivos
+## git checkout -- *
+`git checkout -- *`  Regenerar Archivos
 
 ## npm install -g @angular/cli
 `npm install -g @angular/cli`  instalar angular
